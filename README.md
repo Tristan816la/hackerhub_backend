@@ -1,7 +1,7 @@
-#### hackerhub_backend
+#### Hackerhub_backend
 
-##No Need for tokens
-#1. Get All Posts
+## No Need for tokens
+# 1. Get All Posts
 GET: /posts
 
 Result:
