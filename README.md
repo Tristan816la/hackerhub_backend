@@ -2,19 +2,18 @@
 
 ##No Need for tokens
 #1. Get All Posts
-```
-GET ```/posts```
-```
+GET: /posts
+
 Result:
 ```
 {
   postId
-	body
-	userHandle 
-	createdAt
-	userImage
-	likeCount
-	userImage
-	commentCount
+  body 
+  userHandle 
+  createdAt
+  userImage
+  likeCount
+  userImage
+  commentCount
 }
 ```
